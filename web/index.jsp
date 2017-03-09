@@ -15,6 +15,7 @@
     First Page ^^
   </h1>
   <code>   code_CODE</code>
+  <footer> footer </footer>
   <p>paragraph</p>
   $END$
   </body>
